@@ -1,0 +1,4 @@
+[submodule "ly2abc"]
+	path = ly2abc
+	url = https://github.com/aelkiss/ly2abc.git
+	ignore = all
